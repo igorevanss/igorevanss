@@ -1,4 +1,4 @@
-## Hi, My name is Igor Santos, I am a Fullstack Software Development Student!
+## Hi, My name is Igor Santos, I am IT Project Manager, Agilist and Scrum Master!
 
 <!--
 **igorevanss/igorevanss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently volunteering for a non-governmental institution as a Technology Specialist
 
-- 🌱 I’m currently learning React.JS
+- 🌱 I’m currently learning Agile Methodologies
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/igorevanss">
