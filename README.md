@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently volunteering for a non-governmental institution as a Technology Specialist
 
-- 🌱 I’m currently learning Agile Methodologies
+- 🌱 I’m currently learning IT Support
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/igorevanss">
