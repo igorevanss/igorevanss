@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently volunteering for a non-governmental institution as a Technology Specialist
 
-- 🌱 I’m currently learning IT Support
+- 🌱 I’m currently learning Python
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/igorevanss">
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!--
   <img align="right" alt="Igor-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   -->
